@@ -1,6 +1,15 @@
 package com.model;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
 public class Blog {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private int id;
     private String content;
 
@@ -30,9 +39,10 @@ public class Blog {
 
     private String title;
 
-    public Blog()
+    public Blog(String title, String content)
     {
-
+        this.setTitle(title);
+        this.setContent(content);
     }
 
     public Blog(int id, String title, String content)
