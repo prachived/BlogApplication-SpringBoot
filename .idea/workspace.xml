@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f0abd3-8db2-48f4-b9d9-ea45604f4405" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/repository/BlogRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controller/BlogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mainpackage/MainApplicationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MainApplicationClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/model/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/model/Blog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/controller/BlogController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mainpackage/MainApplicationClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/model/Blog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/model/Blog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MainApplicationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MainApplicationClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,8 +49,8 @@
       <file leaf-file-name="MainApplicationClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/MainApplicationClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="106">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mainpackage/MainApplicationClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/model/Blog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/controller/BlogController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/MainApplicationClass.java" />
       </list>
     </option>
   </component>
@@ -162,7 +154,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -180,66 +172,6 @@
             <path>
               <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
               <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlogApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -359,15 +291,16 @@
       <updated>1531870726698</updated>
       <workItem from="1531870732606" duration="4918000" />
       <workItem from="1531963053077" duration="4050000" />
-      <workItem from="1532037588318" duration="3891000" />
+      <workItem from="1532037588318" duration="4712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12859000" />
+    <option name="totallyTimeSpent" value="13680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -571,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/MainApplicationClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="106">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
